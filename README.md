@@ -1,5 +1,9 @@
 # DSC520
-DSC520 Final Project: North Korea's Missile Tests Analysis
+**North Korea's Missile Tests Analysis**
+
+<br/>
+<img src="https://2k8r3p1401as2e1q7k14dguu-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/China-Missile-1024x671.jpg"  width="500px">
+<br/>
 
 ## References
 1. Musudan (BM-25). (n.d.). Retrieved July 31, 2020, from https://missilethreat.csis.org/missile/musudan/
